@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "filename": "Appunti Teoria.pdf",
+  "size": 162755749,
+  "sha256": "ad30c90d97120c74a142169e79538f92eefede6751e0dec354923b54edf776f0",
+  "parts": [
+    {
+      "name": "part-000001",
+      "size": 90000000,
+      "sha256": "76001badf16bb339d6ed7b83405ffa6dd9d03a67c2a0637b61c357c6aa395f08"
+    },
+    {
+      "name": "part-000002",
+      "size": 72755749,
+      "sha256": "5b4b38f44c93c7d306800c568eaf0a372129305e508152201126da29b236f364"
+    }
+  ]
+}

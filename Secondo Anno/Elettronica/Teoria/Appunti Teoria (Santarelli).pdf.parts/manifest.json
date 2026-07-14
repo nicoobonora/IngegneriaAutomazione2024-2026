@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "filename": "Appunti Teoria (Santarelli).pdf",
+  "size": 128619039,
+  "sha256": "dc134552a5e92e1363a0ea1814ec9b5ac047e814bcd2d2d10322720411c62ea9",
+  "parts": [
+    {
+      "name": "part-000001",
+      "size": 90000000,
+      "sha256": "68c72b6bcf5d0355392b3572d1f5cf6c37a417f06243caf584ceaa37d2e2cab2"
+    },
+    {
+      "name": "part-000002",
+      "size": 38619039,
+      "sha256": "02734ac9d289631298ef963ea277e95bcde2d3ff3b629e816847d67ea4445d73"
+    }
+  ]
+}

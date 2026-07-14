@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "filename": "Libro.pdf",
+  "size": 274645515,
+  "sha256": "c1f09e61d10889de777df3c99b63b727c3a1eedbdfa4d62dbf5432fc10b45f29",
+  "parts": [
+    {
+      "name": "part-000001",
+      "size": 90000000,
+      "sha256": "cad269e7ae9bd257d14dda91b26d15a08e3ca506fd727859c00381a31db9fa92"
+    },
+    {
+      "name": "part-000002",
+      "size": 90000000,
+      "sha256": "255797645cbd5a6a571204494e47e40fd7f3309fe20ff50d9eb9c7c2379b9b5d"
+    },
+    {
+      "name": "part-000003",
+      "size": 90000000,
+      "sha256": "8d9b4d5905f909a751aeaa7ce8dee294c93a56cb59606709b368cd28ec745779"
+    },
+    {
+      "name": "part-000004",
+      "size": 4645515,
+      "sha256": "518b7e6b2df0fec50dbfd0344264493506ba218a29fc300affad4d9e06c1dfa3"
+    }
+  ]
+}

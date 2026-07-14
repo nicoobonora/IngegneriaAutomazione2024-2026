@@ -1,0 +1,6 @@
+Il progetto (Traccia SMA), assieme a una spiegazione della soluzione, si trova a questo link:
+https://github.com/nicoobonora/Progetto_Controlli_2
+
+In caso di problemi di accesso scrivetemi pure a nicobonoraaa@gmail.com
+
+Nota importante: il prof ha apprezzato di più la prima soluzione, risolta tramite algoritmo, che la seconda, nonostante quest'ultima rispetti meglio i requisiti richeisti.
